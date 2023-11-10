@@ -1,7 +1,7 @@
-name: Ilona Maskova 
+name: Emil Seit-Arif
 job: QA Engineer
 level: junior
-email: ilona@hexlet.io
+email: serwestr@yandex.ru
 description: |
   Это текст-описание в свободной форме. Здесь можно рассказать пару интересных фактов про себя
 
@@ -9,6 +9,5 @@ description: |
 skills: 
   - функциональное тестирование
   - написание багрепортов
-  - Linux
   - слепая печать
   - английский язык C1
