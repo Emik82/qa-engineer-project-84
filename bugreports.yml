@@ -75,7 +75,7 @@
   actual-result: |
     Данные о покупке не отправлены на сервер
     Код статуса запроса = 500 Internal Server Error
-![screenshot](https://github.com/Emik82/qa-engineer-project-84/blob/main/image.png)
+    ![screenshot](https://github.com/Emik82/qa-engineer-project-84/blob/main/image.png)
 
 - summary: |
     После покупки корзина не обнуляется
