@@ -1,0 +1,37 @@
+---
+test-cases:
+  - summary: |
+      Адаптивность под мобильные устройства
+    status: fail
+
+  - summary: |
+      Проверка поиска
+    status: fail
+    
+  - summary: |
+      Проверка фильтра по цене
+    status: fail  
+
+  - summary: |
+      проверка просмотра подробной информации товаров
+    status: pass  
+
+  - summary: |
+      Успешная проверка оформления товара    
+    status: fail    
+
+  - summary: |
+      Проверка кнопок переключения между страницами товаров 
+    status: pass    
+
+  - summary: |
+      Проверка обнуления корзины после покупки
+    status: fail   
+
+  - summary: |
+      Проверка русификации
+    status: fail    
+
+  - summary: |
+      Проверка ссылки с хештегом
+    status: pass      
