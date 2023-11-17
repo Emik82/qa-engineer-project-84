@@ -36,7 +36,7 @@ test-cases:
       Проверка ссылки с хештегом
     status: pass     
 
-  bugreports:
+bugreports:
   - summary: |
       Пустое значение категории
     environment: |
