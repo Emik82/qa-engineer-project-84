@@ -45,7 +45,7 @@
   
 - summary: |
     проверка оформления товара   
-  status: fail  
+  status: pass  
 
 - summary: |
     проверка удаления товара с корзины
